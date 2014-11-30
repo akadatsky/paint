@@ -1,0 +1,37 @@
+{
+  "list": [
+    {
+      "saveType": "GROUP",
+      "list": [
+        {
+          "saveType": "OVAL",
+          "size": 30,
+          "x": 210,
+          "y": 125
+        },
+        {
+          "saveType": "OVAL",
+          "size": 30,
+          "x": 165,
+          "y": 125
+        },
+        {
+          "saveType": "SQUARE",
+          "size": 30,
+          "x": 185,
+          "y": 165
+        }
+      ],
+      "size": 0,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "saveType": "TRIANGLE",
+      "size": 30,
+      "x": 110,
+      "y": 145
+    }
+  ],
+  "activeShapeIndex": 0
+}
